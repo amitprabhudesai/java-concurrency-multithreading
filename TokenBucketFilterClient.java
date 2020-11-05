@@ -1,6 +1,9 @@
 import java.util.HashSet;
 import java.util.Set;
 
+/** 
+ * Token bucket filter test client.
+ */
 public class TokenBucketFilterClient {
 
     public static void main(String[] args) throws InterruptedException {
