@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "thread-safe-callback"
+		},
+		{
+			"path": "semaphore"
 		}
 	]
 }
